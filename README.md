@@ -88,7 +88,12 @@ Atualmente venho desenvolvendo meus conhecimentos cada vez mais na área, estou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" 
 />
-        
-<br/>
-<br/>
+<br><br>
+---
+
+### 📫 Contato
+
+
+ <a href = "mailto:luizkichimoto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-felipe-kichimoto-valdevino-484489415/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 
