@@ -89,6 +89,7 @@ Atualmente venho desenvolvendo meus conhecimentos cada vez mais na área, estou 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" 
 />
 <br><br>
+
 ---
 
 ### 📫 Contato
