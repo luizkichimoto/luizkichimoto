@@ -50,8 +50,8 @@ Atualmente venho desenvolvendo meus conhecimentos cada vez mais na área, estou 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Vercel"
+    title="Vercel" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" 
@@ -88,6 +88,15 @@ Atualmente venho desenvolvendo meus conhecimentos cada vez mais na área, estou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="SQL-Oracle" 
+    title="SQL-Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+/>
+          
 <br><br>
 
 ---
